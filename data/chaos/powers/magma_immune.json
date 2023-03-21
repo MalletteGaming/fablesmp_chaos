@@ -1,0 +1,18 @@
+{
+	"type": "origins:invulnerability",
+    "damage_condition": {
+        "type": "origins:or",
+    "conditions": [
+        {
+            "type": "origins:name",
+            "name": "hotFloor"
+        },
+        {    
+            "type": "origins:name",
+            "name": "hotFloor.player"
+        }
+    ]
+    },
+	"name": "Cave Diver",
+	"description": "You use magma block so much they do not hurt you"
+}

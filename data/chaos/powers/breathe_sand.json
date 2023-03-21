@@ -1,0 +1,9 @@
+{
+	"type": "origins:invulnerability",
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "inWall"
+    },
+	"name": "No Breathing",
+	"description": "You don't need to breathe even in sand"
+}
